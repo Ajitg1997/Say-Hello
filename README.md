@@ -1,7 +1,3 @@
 # Say-Hello
 Ajit Gaikwad 
-<br>
-color:red:
-Hello Prof. Birajdar Sir
-</br>
-Welcome to my first webpage
+<h1 style="color:rgb(255,0,0)">Welcome Prof. Ganesh Birajdar Sir on my 1st webpage</h1>

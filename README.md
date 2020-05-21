@@ -8,7 +8,7 @@
 <h>
 <strong>लग्नसोहळा </strong>
 </h>
-<pr>
+<p>
 <pre>
 <code>
 

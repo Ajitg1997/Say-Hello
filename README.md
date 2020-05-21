@@ -1,17 +1,23 @@
-# Say-Hello
-Ajit Gaikwad 
+
 <h1 style="color:rgb(255,0,0)">Wedding Invitation</h1>
 <html>
 <p>
-श्री. सिद्धनाथ प्रसन्ना.
+||श्री. सिद्धनाथ प्रसन्ना. श्री.पांडूरंग प्रसन्ना.||
 
 </p>
-
+<h>
+<strong>लग्नसोहळा </strong>
+</h>
+<pre>
+<code>
 <p>
-This paragraph
-contains         a lot of spaces
-in the source         code,
-but the        browser
-ignores it.
+वर : <br />                  वधू: 
+चि. वैभव <br />               चि.सौ.का.पूजा <br/>
+श्री.चव्हाण यांचे सुपुत्र<br/>         श्री.संभाजी अर्जून गायकवाड यांची कन्या.रा.बोहाळी 
+रा.गादेगाव ता.पंढरपूर <br/>
+
+</pre>
+</code
+
 </p>
 </html>

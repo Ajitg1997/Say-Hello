@@ -2,7 +2,7 @@
 <h1 style="color:rgb(255,0,0)">Wedding Invitation</h1>
 
 <p>
-||श्री. सिद्धनाथ प्रसन्ना. श्री.पांडूरंग प्रसन्ना.||<img src="https://image.shutterstock.com/image-vector/vector-ganesh-hindu-god-600w-1252608484.jpg" height="10" width="10"/>  
+||श्री. सिद्धनाथ प्रसन्ना. श्री.पांडूरंग प्रसन्ना.||<img src="https://image.shutterstock.com/image-vector/vector-ganesh-hindu-god-600w-1252608484.jpg" height="50" width="50"/>  
 
 </p>
 <h><strong>लग्नसोहळा </strong></h>

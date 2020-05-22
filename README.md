@@ -19,5 +19,11 @@
 
 <ul><li>माधव गायकवाड</li> <li>आकाश गायकवाड</li> </ul>
 </p1>
-लग्नस्थळ : 
+लग्नस्थळ : गादेगाव ता. पंढरपूर
+
+<hr>
+copyrights @Ajit Gaikwad
+Follow me on :<br/>
+<img src ="https://images.app.goo.gl/5F4cDjcGooEpN2Xq7" height="25" width="20"/>
+</hr>
 </html>

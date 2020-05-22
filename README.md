@@ -22,7 +22,7 @@
 लग्नस्थळ : गादेगाव ता. पंढरपूर
 
 <hr>
-copyrights @Ajit Gaikwad
+copyrights @Ajit Gaikwad<br/>
 Follow me on :<br/>
 <img src ="https://images.app.goo.gl/5F4cDjcGooEpN2Xq7" height="25" width="20"/>
 </hr>
